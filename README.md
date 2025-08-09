@@ -16,29 +16,29 @@ Then the anchor introduced about the golden jubliee of completion of 70 years of
 Firstly,He tell us about the infrastructure of the college.
 
 
- 2.<ins>HARPREET MAM</ins>
+ 2.**<ins>HARPREET MAM</ins>**
 
 
 (HOD OF APPLIED SCIENCES)
 
 She motivated and encouraging students present in the auditorium. she tell us about four "P"
 
-PRAYER
+**PRAYER**
 
-PERSISTENCE
+**PERSISTENCE**
 
-PASSION
+**PASSION**
 
-PLACEMENT
+**PLACEMENT**
 
-3.<ins>SEHAJPAL SIR</ins>
+3.**<ins>SEHAJPAL SIR</ins>**
 
 (PRINCIPAL OF GNDEC LUDHIANA)
 
 Sir encourage students to do their best in upcoming years.
 
 
-4.<ins>RAVINDER GARG SIR</ins>
+4.**<ins>RAVINDER GARG SIR</ins>**
 
 (CHIEF ENGINEER AT MUNCIPAL CORPORATION LUDHIANA)
 
@@ -105,6 +105,18 @@ In this lecture, The host inroduced us to the members of causmic club, How to jo
 *<ins>ENGLISH LECTURE</ins>*
 
 The fifth day of induction program begins with english lecture by ASTHIK SIR. Firstly, He took an introduction of all the students
+
+
+*<ins>MATHS LECTURE</ins>*
+
+The maths lecture is given by RAJVIR MAM. In this lecture,She asked about some basic definations of mathematics and formulas.It was overall an informative lecture.
+
+
+*<ins>BEEE LECTURE</ins>*
+
+Lastly,We attended the BEEE lecture that was really good and the lecturer told us about subject in detail and its syallabus.
+
+This is how our fifth day of infuction went by interacting with processors of GNE.
 
 
 
