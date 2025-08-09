@@ -10,7 +10,7 @@ Now all the CSE and IT students assembling in the auditorium.
 Then the anchor introduced about the golden jubliee of completion of 70 years of GURU NANAK DEV ENGINEERING COLLEGE LUDHIANA.
 
 
-*1.<ins>HARSIMRAN SIR</ins>*
+1.**<ins>HARSIMRAN SIR</ins>**
 
 
 Firstly,He tell us about the infrastructure of the college.
@@ -74,7 +74,7 @@ He connect people with science and mathematics with different concept of spiritu
 It was such an amazing lecture because he explained different science concepts and maths practical tricks.
 
 
-**<DR.PRIYA DARSHNI<ins/>**
+**<ins>DR.PRIYA DARSHNI<ins/>**
 
 She gave lecture on universal human values.
 
